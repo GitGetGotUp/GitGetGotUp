@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GitGetGotUp
-- 👀 I’m interested in econ, sports, coding, sustainability
-- 🌱 I’m currently learning R
--
+- 👀 Interests: Development, Labor, Gender, Innovation
+- 🌱 M.S. Quant Econ from NYU
 
 <!---
 GitGetGotUp/GitGetGotUp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
